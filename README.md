@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚁 SAR-MiniGrid
+# 🚁 Rescue-Grid
 
 ### *Search. Navigate. Rescue.*
 
